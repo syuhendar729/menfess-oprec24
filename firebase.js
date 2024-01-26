@@ -3,14 +3,14 @@ import { getDatabase } from "firebase/database";
 
 // Paste Your firebaseConfig Here...
 const firebaseConfig = {
-  apiKey: "AIzaSyAEUTFykMPhpGvqPgac7w0AAIdNgopE9Qc",
-  authDomain: "menfess-event-sikrab-outbound.firebaseapp.com",
-  databaseURL: "https://menfess-event-sikrab-outbound-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "menfess-event-sikrab-outbound",
-  storageBucket: "menfess-event-sikrab-outbound.appspot.com",
-  messagingSenderId: "1078087116997",
-  appId: "1:1078087116997:web:6f30bc0b37c61527c568ac",
-  measurementId: "G-L32L8LVRS8"
+  apiKey: "AIzaSyAsaSc8tTitklZZkoeYN0nwGgFYsSGAQy0",
+  authDomain: "menfess-oprec24.firebaseapp.com",
+  databaseURL: "https://menfess-oprec24-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "menfess-oprec24",
+  storageBucket: "menfess-oprec24.appspot.com",
+  messagingSenderId: "896228471684",
+  appId: "1:896228471684:web:b5dc390505c0bedaeee3d1",
+  measurementId: "G-QPHWCWYW0N"
 };
 
 // Important Messages, See The Readme File
