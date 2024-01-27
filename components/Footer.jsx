@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer>
       <h1 className="text-xs font-medium text-center py-6 text-[#50555e]">
-        ~ made by Syuhendar ~
+        ~ Modified by @PanitiaOprecPIKR2024 ~
       </h1>
     </footer>
   );
